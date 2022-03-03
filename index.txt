@@ -7,7 +7,7 @@ Country:<!-- slightdelayhere--> Australia <!-- laglaglaglaglaglaglaglaglag -->
 Species:<!-- slightdelayhere--> Human <!-- laglaglaglaglaglaglaglaglag -->
 <br/>
  "<!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf --><span id="k"><!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->Reperio vestri<!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf --> familia<!-- slightdelayhere-->:<!-- laglaglaglaglaglaglaglaglag --> Simul nos vincere</span>". <!-- sjkfhskjf -->
-<br/><br/><!--laglaglaglaglaglafffffffffffffffffffffffffffffffffffffffffffffffffffglaglaglaglaglaglag --><p>Here are some <a href="/projects.html" target="_blank"> projects </a>I'm working on or coming soon:</p><!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf --><!-- longlonglongcomment -->
+<br/><br/><!-- laglaglaglaglaglaglaglaglag --><p>Here are some <a href="/projects.html" target="_blank"> projects</a> I'm working on <!-- laglaglaglaglaglaglaglaglag -->or coming soon:</p><!-- longlonglongcomment -->
 <p> <a href="link1">Radion <!-- slightdelayhere--> [<!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->Game]</a> <!-- slightdelayhere--> 
 <br> <a href="link2">Efficient Armatures and Rigging [<!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->Blender]</a>
 <br> <a href="link3">Wing Drone [RC]<!-- laglaglaglaglaglaglaglaglag --></a>.</p></p>
