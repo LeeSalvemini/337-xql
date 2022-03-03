@@ -6,19 +6,19 @@ Country:<!-- slightdelayhere--> Australia <!-- laglaglaglaglaglaglaglaglag -->
 
 Species:<!-- slightdelayhere--> Human <!-- laglaglaglaglaglaglaglaglag -->
 <br/>
- "<!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf --><span id="k"><!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->Reperio vestri<!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf --> familia<!-- slightdelayhere-->:<!-- laglaglaglaglaglaglaglaglag --> Simul nos vincere</span>". <!-- sjkfhskjf -->
+ "<!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf --><span id="k"><!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->Reperio<!-- slightdelayhere--> vestri<!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf --> familia<!-- slightdelayhere-->:<!-- laglaglaglaglaglaglaglaglag --> Simul nos vincere</span>". <!-- longlonglongcomment -->
 <br/><br/><!-- laglaglaglaglaglaglaglaglag --><p>Here are some <a href="/projects.html" target="_blank"> projects</a> I'm working on <!-- laglaglaglaglaglaglaglaglag -->or coming soon:</p><!-- longlonglongcomment -->
-<p> <a href="link1">Radion <!-- slightdelayhere--> [<!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->Game]</a> <!-- slightdelayhere--> 
-<br> <a href="link2">Efficient Armatures and Rigging [<!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->Blender]</a>
-<br> <a href="link3">Wing Drone [RC]<!-- laglaglaglaglaglaglaglaglag --></a>.</p></p>
+<p> <a href="link1">Radion <!-- slightdelayhere--> [<!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->Game].</a> <!-- slightdelayhere--> 
+<br> <a href="link2">Efficient Armatures and Rigging [<!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->Blender].</a>
+<br> <a href="link3">Wing Drone [<!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->RC].<!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf --></a>.</p></p>
 <br>
 <!-- laglaglaglaglaglaglaglaglag --><!-- laglaglaglaglaglaglaglaglag -->
 Collection of CC0 (Creative Commons Zero) assets:
 <br/><br/>
- <a href="link1">CC0 3D/Games</a><br>
-  <a href="link1">CC0 Music/Sound</a><br>
-   <a href="link1">CC0 Video/Footage</a><br>
-<br/>
+ <a href="link1">CC0 3D/Games.</a><br>
+  <a href="link1">CC0 Music/Sound.</a><br>
+   <a href="link1">CC0 Video/Footage.</a><br>
+<br/><!-- longlonglongcomment -->
 Join my live <!-- slightdelayhere--> <a href="https://dlive.tv/LeeSalvemini" target="_blank"> channel</a><!-- longlonglongcomment -->.
 <br/>
 You can send me <!-- slightdelayhere--> an <a href="kaeyhre@gmail.com">email</a><!-- longlonglongcomment -->.
