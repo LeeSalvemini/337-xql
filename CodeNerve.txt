@@ -11,12 +11,11 @@ Origin:<!-- slightdelayhere--> Earth <!-- laglaglaglaglaglaglaglaglag -->
 <!-- laglaglaglaglaglafffffffffffffffffffffffffffffffffffffffffffffffffffglaglaglaglaglaglag --><p>Here are some of my <a href="/projects"> projects</a></p>
 <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 <p> <!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
-<p> <a href="link1">Profile1</a> 
-<br> <a href="link2">Profile2</a>
-<br> <a href="link3">Profile3</a>.</p></p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
-<p>Tell more about yourself. <br><br><br>Give your project links or something like that. <a href="link"> Here you go</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
-<p> You can give links to other professional profiles you have on Internet, here: <br> <a href="link1">Profile1</a> <br> <a href="link2">Profile2</a> and <br> <a href="link3">Profile3</a>.</p>
+<p> <a href="link1">Radion [Game]</a> 
+<br> <a href="link2">Efficient Armatures and Rigging [Blender]</a>
+<br> <a href="link3">Wing Drone [RC]</a>.</p></p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
 
-You can send me an<!-- slightdelayhere--><!-- longlonglongcomment --><a href="kaeyhre@gmail.com">email</a>.
+
+You can send me <!-- slightdelayhere--> an <a href="kaeyhre@gmail.com">email</a><!-- longlonglongcomment -->.
 
 <p>o7</p>
