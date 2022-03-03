@@ -15,9 +15,9 @@ Species:<!-- slightdelayhere--> Human <!-- laglaglaglaglaglaglaglaglag --><!-- s
 <!-- laglaglaglaglaglaglaglaglag --><!-- laglaglaglaglaglaglaglaglag -->
 Collection of CC0 (Creative Commons Zero) assets:
 <br/><br/>
- <!-- slightdelayhere--><a href="link1">CC0 3D/Games.</a><br>
-  <!-- slightdelayhere--><a href="link1">CC0 Music/Sound.</a><br>
-   <!-- slightdelayhere--><a href="link1">CC0 Video/Footage.</a><br>
+ <!-- slightdelayhere--><a href="link1">CC0 3D/Games</a><!-- slightdelayhere-->.<br>
+  <!-- slightdelayhere--><a href="link1">CC0 Music/Sound</a><!-- slightdelayhere-->.<br>
+   <!-- slightdelayhere--><a href="link1">CC0 Video/Footage</a><!-- slightdelayhere-->.<br>
 <br/><!-- longlonglongcomment -->
 Join my live <!-- slightdelayhere--> <a href="https://dlive.tv/LeeSalvemini" target="_blank"> channel</a>.
 <!-- longlonglongcomment --><br/>
