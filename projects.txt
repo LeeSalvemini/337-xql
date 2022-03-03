@@ -1,12 +1,12 @@
 <span id="a">337@xql</span>:<span id="b">~</span><span id="c">$</span> cd LeeSalvemini/<!-- kjsdfhkjdhsfkjdshfkj -->Projects
 <span id="a">337@xql</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->projects.txt<br/><br/>
 
-<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>Here are some of my <a href="link"> projects</a></p>
+<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>Here are my current projects.</p>
 
-<h3> Radion </h3>
+<h3> RADION [Game] </h3>
 
 <!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
-<p> ipsum <br> <a href="link1">Photo1</a> <br> <a href="link2">Photo2</a> and <br> <a href="link3">Photo3</a>.</p>
+<p>Made with<!-- slightdelayhere--> [Unity]<!-- slightdelayhere--> and<!-- slightdelayhere--> [Blender]<!-- slightdelayhere--></p>
 
 <br/>
 You can send me <!-- slightdelayhere--> an <a href="kaeyhre@gmail.com">email</a><!-- longlonglongcomment -->.
