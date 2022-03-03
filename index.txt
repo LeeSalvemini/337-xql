@@ -10,7 +10,7 @@ Species:<!-- slightdelayhere--> Human <!-- laglaglaglaglaglaglaglaglag --><!-- s
 <br/><br/><!-- laglaglaglaglaglaglaglaglag --><p>Here are some projects I'm working on <!-- slightdelayhere-->or coming soon:</p><!-- longlonglongcomment -->
 <p> <a href="link1">Radion <!-- slightdelayhere--> [<!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->Game]</a>. <!-- slightdelayhere--> 
 <br> <a href="link2">Efficient Armatures<!-- slightdelayhere--> and Rigging [<!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->Blender]</a>.
-<br> <a href="link3">Wing Drone [<!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->RC].<!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf --></a>.</p></p>
+<br> <a href="link3">Wing Drone [<!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->RC]<!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf --></a>.</p></p>
 <br>
 <!-- laglaglaglaglaglaglaglaglag --><!-- laglaglaglaglaglaglaglaglag -->
 Collection of CC0 (Creative Commons Zero) assets:
@@ -21,6 +21,6 @@ Collection of CC0 (Creative Commons Zero) assets:
 <br/><!-- longlonglongcomment -->
 Join my live <!-- slightdelayhere--> <a href="https://dlive.tv/LeeSalvemini" target="_blank"> channel</a>.
 <!-- longlonglongcomment --><br/>
-You can send me <!-- slightdelayhere--> an <a href="kaeyhre@gmail.com">email</a><!-- longlonglongcomment -->.
-<br/>
+You can send me <!-- slightdelayhere--> an <a href="kaeyhre@gmail.com">email</a>.
+<!-- longlonglongcomment --><br/>
 o<!-- longlonglongcomment -->7<!-- longlonglongcomment --><br>
