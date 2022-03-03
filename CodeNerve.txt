@@ -8,9 +8,11 @@ Origin:<!-- slightdelayhere--> Earth <!-- laglaglaglaglaglaglaglaglag -->
 <br/>
  "<span id="k">Reperio vestri tribu: Simul nos vincere</span>". <!-- sjkfhskjf -->
 <br/>
-<!-- laglaglaglaglaglafffffffffffffffffffffffffffffffffffffffffffffffffffglaglaglaglaglaglag --><p>Here are some of my <a href="/projects"> projects</a></p>
+<!-- laglaglaglaglaglafffffffffffffffffffffffffffffffffffffffffffffffffffglaglaglaglaglaglag --><p>Here are some of my <a href="/projects"> projects</a>!-- laglaglaglaglaglafffffffffffffffffffffffffffffffffffffffffffffffffffglaglaglaglaglaglag -->:
+
+</p>
 <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
-<p> <!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
+<!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
 <p> <a href="link1">Radion [Game]</a> 
 <br> <a href="link2">Efficient Armatures and Rigging [Blender]</a>
 <br> <a href="link3">Wing Drone [RC]</a>.</p></p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
