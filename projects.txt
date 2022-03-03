@@ -6,8 +6,12 @@
 <h3> Radion </h3>
 
 <!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
-<p> You can give links to other professional profiles you have on Internet, here: <br> <a href="link1">Profile1</a> <br> <a href="link2">Profile2</a> and <br> <a href="link3">Profile3</a>.</p>
+<p> ipsum <br> <a href="link1">Photo1</a> <br> <a href="link2">Photo2</a> and <br> <a href="link3">Photo3</a>.</p>
 
-You can also give your email ID for contacting you<!-- slightdelayhere-->, feel free to send me an email at<!-- longlonglongcomment --><a href="Your email ID">Email</a>.
+<br/>
+You can send me <!-- slightdelayhere--> an <a href="kaeyhre@gmail.com">email</a><!-- longlonglongcomment -->.
+<br/>
+<p>o7</p>
 
-<p>Cheers!</p>
+
+
