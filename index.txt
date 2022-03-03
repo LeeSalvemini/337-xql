@@ -8,16 +8,16 @@ Species:<!-- slightdelayhere--> Human <!-- laglaglaglaglaglaglaglaglag -->
 <br/>
  "<span id="k">Reperio vestri familia: Simul nos vincere</span>". <!-- sjkfhskjf -->
 <br/><br/><!--laglaglaglaglaglafffffffffffffffffffffffffffffffffffffffffffffffffffglaglaglaglaglaglag --><p>Here are some <a href="/projects.html" target="_blank"> projects </a>I'm working on<!-- laglaglaglaglaglaglaglaglag --> or coming soon<!-- laglaglaglaglaglafffffffffffffffffffffffffffffffffffffffffffffffffffglaglaglaglaglaglag -->:</p><!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
-<p> <a href="link1">Radion [Game]</a> 
-<br> <a href="link2">Efficient Armatures and Rigging [Blender]</a>
-<br> <a href="link3">Wing Drone [RC]</a>.</p></p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+<p> <a href="link1">Radion <!-- slightdelayhere--> [<!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->Game]</a> <!-- laglaglaglaglaglaglaglaglag -->
+<br> <a href="link2">Efficient Armatures and Rigging [<!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->Blender]</a>
+<br> <a href="link3">Wing Drone [RC]<!-- laglaglaglaglaglaglaglaglag --></a>.</p></p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
 <br>
 <!-- laglaglaglaglaglaglaglaglag --><!-- laglaglaglaglaglaglaglaglag -->
 Collection of CC0 (Creative Commons Zero) assets:
 <br/><br/>
  <a href="link1">CC0 3D/Games</a><br>
   <a href="link1">CC0 Music/Sound</a><br>
-   <a href="link1">Video/Footage</a><br>
+   <a href="link1">CC0 Video/Footage</a><br>
 <br/>
 Join my live <!-- slightdelayhere--> <a href="https://dlive.tv/LeeSalvemini" target="_blank"> channel</a><!-- longlonglongcomment -->.
 <br/>
